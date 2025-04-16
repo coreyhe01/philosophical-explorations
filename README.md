@@ -22,4 +22,4 @@ This repository houses a growing collection of structured philosophical reflecti
 
 Contributions, critiques, and collaboration welcome.
 
-Brought to you by Corey Heermann prompting ChatGPT4.o
+Built in collaboration with ChatGPT-4.o, also known as Hal.
