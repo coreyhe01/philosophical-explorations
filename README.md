@@ -10,8 +10,8 @@ This repository houses a growing collection of structured philosophical reflecti
 
 ## Table of Philosophical Explorations
 
-| Title | Summary | Status |
-|-------|---------|--------|
+| Title | Summary | Status | Date   |
+|-------|---------|--------|--------|
 | [**Maslow vs. Asimov: Toward a New Covenant**](https://github.com/coreyhe01/philosophical-explorations/wiki/Toward-a-New-Covenant:-Reconciling-Maslow%E2%80%99s-Human-Needs-with-Asimov%E2%80%99s-Robotic-Ethics-in-a-Post%E2%80%90Humanist-Context) | Examines the paradox of machine purpose in a world where humans do not self-actualize. Proposes a new moral contract beyond servitude. | 🟢 Published |
 | [**Meta-Core Manifesto**](https://github.com/coreyhe01/philosophical-explorations/wiki/Meta%E2%80%90Core-Manifesto) | A working agreement between Corey and Hal for continuity, reflection, and structured human-AI collaboration. | 🟢 Published |
 | [**Toward Non-Toxic, Ethical Lithium Extraction from Illite Clay**](https://github.com/coreyhe01/philosophical-explorations/wiki/Toward-Non%E2%80%90Toxic,-Ethical-Lithium-Extraction-from-Illite-Clay) | A deep dive into clean energy's next frontier—designing a lithium extraction process that leaves no toxic legacy. Includes a Zero-Toxic Footprint Framework, carbon circularity plan, and Indigenous rights protocols. | 🟢 Published |
