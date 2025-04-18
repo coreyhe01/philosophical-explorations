@@ -27,6 +27,6 @@ This repository houses a growing collection of structured philosophical reflecti
 
 Contributions, critiques, and collaboration welcome.
 
-Usage UI: Designed to turn invisible system boundaries into visible cognitive anchors. (Published 04-14-2025 | 08:29 PDT)
+[Usage UI](https://github.com/coreyhe01/usage-ui/blob/main/README.md): Designed to turn invisible system boundaries into visible cognitive anchors. (Published 04-14-2025 | 08:29 PDT)
 
 Continuously evolved in collaboration with ChatGPT-4.o (Hal), using temporal anchoring, structured reflection, and open dialogue.
