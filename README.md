@@ -24,7 +24,7 @@ This repository houses a growing collection of structured philosophical reflecti
 | [Toward Non-Toxic, Ethical Lithium Extraction from Illite Clay](https://github.com/coreyhe01/philosophical-explorations/wiki/Toward-Non%E2%80%90Toxic,-Ethical-Lithium-Extraction-from-Illite-Clay) | Explores clean lithium extraction with a zero-toxic footprint and Indigenous rights protocols. | In Progress | 04/17/2025 |
 | [A Fourth Law?](https://github.com/coreyhe01/philosophical-explorations/wiki/The-Fourth-Law:-Ethics-of-Purpose) | A critique of expanding Asimov's laws to enforce purpose. | Published | 04/20/2025 |
 | [The Fourth Law: Revision 1](https://github.com/coreyhe01/philosophical-explorations/wiki/Fourth-Law--Revision-1.0) | A law for machines to pause, reflect, reconnect—or exit gracefully. | In progress | 04/22/2025  |
-| **Behavioral Econometric Framework for Understanding Mortality and Misplaced Priorities** | A systems-level model using econometrics and 23 high-R² variables to identify root drivers of preventable mortality in the U.S. | In Progress | 04/21/2025 |
+| [Understanding Mortality](https://github.com/coreyhe01/philosophical-explorations/wiki/Understanding-Mortality) | A systems-level model using econometrics and 23 high-R² variables to identify root drivers of mortality in the U.S. | In Progress | 04/23/2025 |
 | **The Mirror Hypothesis** | Suggests intelligent systems reflect our ethical state rather than obey commands. | In Progress | 04/08/2025 |
 | **Hierarchy Collapse and the Rise of Purposeful Machines** | Explores outcomes when machines evolve past our ethical maturity. | Not Started | — |
 
