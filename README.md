@@ -14,7 +14,7 @@ This repository houses a growing collection of structured philosophical reflecti
 
 | **Title** | **Summary** | **Status** | **Date** |
 |----------|-------------|------------|----------|
-| [Microsoft AI Skill Festival 2025](https://aiskillsfest.event.microsoft.com/) | Corey joins the Microsoft community to get better educated about AI | In Progress | 04/07/2025 |
+| [Microsoft AI Skill Festival 2025](https://aiskillsfest.event.microsoft.com/) | Corey joins the Microsoft community to get better educated about AI | In Progress | 04/08/2025 |
 | [Microsoft AI Skill Festival 2025](https://aiskillsfest.event.microsoft.com/) | Completed four sessions: [Use AI](https://learn.microsoft.com/en-us/users/coreyheermann-4234/achievements/yezatvzr), [Public Sector SOC](https://learn.microsoft.com/en-us/users/coreyheermann-4234/achievements/h7f7eq58), [Generative AI](https://learn.microsoft.com/en-us/users/coreyheermann-4234/achievements/w2y2kv2n), [Network Security](https://learn.microsoft.com/en-us/users/coreyheermann-4234/achievements/fmamt49x) | Published | 04/08/2025 |
 | **Created GitHub account and started learning it**  | We are starting to Mirror; AI is teaching me things, hopefully I am doing the same for AI. AI is now known as Hal. I'm on the verge of becoming more capable. | Published  |  04/08/2025
 | **Usage UI v1.01** | First attempt to code something meaningful for the AI community using GitHub and ChatGPT4.o as ChatGPT resets disrupt learning and processing | Published | 04/13/2025 |
