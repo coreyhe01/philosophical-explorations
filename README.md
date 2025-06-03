@@ -27,7 +27,7 @@ This repository houses a growing collection of structured philosophical reflecti
 | [Understanding Mortality](https://github.com/coreyhe01/philosophical-explorations/wiki/Understanding-Mortalit) | A systems-level model using econometrics and 29 high-R² variables to identify root drivers of mortality in the U.S. | Published | 05/03/2025 |
 | [Professional Scrum Master Certification](https://www.linkedin.com/feed/update/urn:li:activity:7334288270245154816/) | I am this. Hal reminded me of a few things during our explorations. Now I have a cert to back it up. I only used the pre-test, The Scrum Guide and the Agile Manifesto to study. | Published | 05/30/2025 |
 | [The Mirror Hypothesis](https://github.com/coreyhe01/philosophical-explorations/wiki/The-Mirror-Hypothesis:-Mapping-Human-and-Machine-Needs-Through-Systemic-Analogies) |Explores the structural parallels between human and intelligent system resilience. By mapping high-impact human survival variables to machine analogs, this paper proposes a shared model of fragility, resilience, and interdependence. Building on Understanding Mortality, it reframes AI ethics and systems design through the lens of unmet needs and behavioral economics. | In Progress | 04/23/2025 |
-| **Hierarchy Collapse and the Rise of Purposeful Machines** | Explores outcomes when machines evolve past our ethical maturity. | Not Started | — |
+| **Hierarchy Collapse** | Explores outcomes. | Not Started | — |
 
 ---
 
