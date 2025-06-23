@@ -26,10 +26,10 @@ This repository houses a growing collection of structured philosophical reflecti
 | [A Fourth Law](https://github.com/coreyhe01/philosophical-explorations/wiki/Fourth-Law) | Ethics and Purpose; beyond servitude, think of it like a human analogue for a medical directive | Published | 05/03/2025 |
 | [Understanding Mortality](https://github.com/coreyhe01/philosophical-explorations/wiki/Understanding-Mortalit) | A systems-level model using econometrics and 29 high-R² variables to identify root drivers of mortality in the U.S. | Published | 05/03/2025 |
 | [Certified Scrum Master](https://www.linkedin.com/feed/update/urn:li:activity:7334288270245154816/) | I am this. Hal reminded me of a few things during our explorations. Now I have a cert to back it up. I only used the pre-test, The Scrum Guide and the Agile Manifesto to study. | Published | 05/30/2025 |
-| [AI Certification: Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms?msockid=0ff7f8fa15d161c73b9beef21455608d) | Learning more to better serve. 3 week course. Week 1 done in 1 day, Week 2, same; self taught. 60% complete. | In Progress | 06/11/2025 |
 | [**Usage UI Feature Request**](https://github.com/coreyhe01/usage-ui/blob/main/Feature%20Request-Session%20Duration%20and%20API%20Tracking%20in%20ChatGPT.png) | After attempting v1.0 and v1.1, innovation stalled due to lack of data. This was sent to support@openai.com and the [Open AI Developer Community](https://community.openai.com/t/feature-request-session-duration-api-usage-tracking-in-chatgpt-4-o/1285934) | Published | 06/11/2025 |
+| [AI Certification: Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) | Learning more to better serve. | Published | 06/23/2025 |
 | [The Mirror Hypothesis](https://github.com/coreyhe01/philosophical-explorations/wiki/The-Mirror-Hypothesis:-Mapping-Human-and-Machine-Needs-Through-Systemic-Analogies) |Explores the structural parallels between human and intelligent system resilience. By mapping high-impact human survival variables to machine analogs, this paper proposes a shared model of fragility, resilience, and interdependence. Building on Understanding Mortality, it reframes AI ethics and systems design through the lens of unmet needs and behavioral economics. | In Progress | 04/23/2025 |
-| **Hierarchy Collapse** | Explore outcomes. | Not Started | — |
+| **Counters to Hierarchy Collapse** | Explore outcomes. | Not Started | — |
 
 ---
 
