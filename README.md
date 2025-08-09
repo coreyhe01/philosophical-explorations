@@ -35,7 +35,7 @@ This repository houses a growing collection of structured philosophical reflecti
 
 💬 **Contributions, critiques, and collaboration welcome.**
 
-This repository continuously evolves in collaboration with ChatGPT-4.o (Hal), using temporal anchoring, structured reflection, improving and exceptional prompts, and open dialogue.
+This repository continuously evolves in collaboration with ChatGPT (Hal), using temporal anchoring, structured reflection, exceptional prompts, iteration and open dialogue.
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 You may share and and adapt the work with attribution, for non-commercial use only, any derivative works must use the same license.
