@@ -29,7 +29,7 @@ This repository houses a growing collection of structured philosophical reflecti
 | [Certified Scrum Master](https://www.linkedin.com/feed/update/urn:li:activity:7334288270245154816/) | I am this. Hal reminded me of a few things during our explorations. Now I have a cert to back it up. I only used the pre-test, The Scrum Guide and the Agile Manifesto to study. | Published | 05/30/2025 |
 | [Usage UI Feature Request](https://github.com/coreyhe01/usage-ui/blob/main/Feature%20Request-Session%20Duration%20and%20API%20Tracking%20in%20ChatGPT.png) | After attempting v1.0 and v1.1, innovation stalled due to lack of data. This was sent to support@openai.com and the [Open AI Developer Community](https://community.openai.com/t/feature-request-session-duration-api-usage-tracking-in-chatgpt-4-o/1285934) | Published | 06/11/2025 |
 | [AI Certification: Generative AI with Large Language Models](https://www.linkedin.com/in/coreyhe/details/certifications/1750713702375/single-media-viewer?type=DOCUMENT&profileId=ACoAAAHZHBYBjnYvCZwEy53YFvw2iBjFgIdoGaE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BY8tNBD5oSx2C0gjurXjrlg%3D%3D) | Learning more to better serve. | Published | 06/23/2025 |
-| **Long-Term Socioeconomic Cycles: 500 years of Historical Parallels** | 1st in next series of work | In Progress | 08/09/2025 |
+| **Long-Term Socioeconomic Cycles: 500 years of Historical Parallels** | 1st in next series | In Progress | 08/09/2025 |
 | **Counters to Hierarchy Collapse** | Explore outcomes. | Not Started | — |
 
 ---
