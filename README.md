@@ -32,7 +32,7 @@ This repository houses a growing collection of structured philosophical reflecti
 | [Long-Term Socioeconomic Cycles: 500 years of Historical Parallels](https://github.com/coreyhe01/philosophical-explorations/wiki/Long%E2%80%90Term-Socioeconomic-Cycles:-500-Years-of-Historical-Parallels) | 1st in next series | 1st Draft | 08/09/2025 |
 | [Passive Mechatronics - Harnessing Nature's Heat for Autonomous Motion](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | 1st in another series | 1s Draft | 08/10/2025
 | **Anticholinergic Burden in America: How Everyday Medications Increase Cognitive Risk** | A data-driven analysis of medication-related cognitive decline and preventable impairment. | In Progress | 11/03/2025 |**
-| [Sunriver Short-Term Rental Conversion; ](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Done | Published | 12/30/2025
+| [Sunriver Short-Term Rental Conversion ](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Done | Published | 12/30/2025
 
 ---
 
