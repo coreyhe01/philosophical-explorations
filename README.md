@@ -29,10 +29,11 @@ This repository documents a body of work grounded in a simple standard: good ide
 | [Certified Scrum Master](https://www.linkedin.com/feed/update/urn:li:activity:7334288270245154816/) | I am this. Hal reminded me of a few things during our explorations. Now I have a cert to back it up. I only used the pre-test, The Scrum Guide and the Agile Manifesto to study. | Published | 05/30/2025 |
 | [Usage UI Feature Request](https://github.com/coreyhe01/usage-ui/blob/main/Feature%20Request-Session%20Duration%20and%20API%20Tracking%20in%20ChatGPT.png) | After attempting v1.0 and v1.1, innovation stalled due to lack of data. This was sent to support@openai.com and the [Open AI Developer Community](https://community.openai.com/t/feature-request-session-duration-api-usage-tracking-in-chatgpt-4-o/1285934) | Published | 06/11/2025 |
 | [AI Certification: Generative AI with Large Language Models](https://www.linkedin.com/posts/coreyhe_generativeai-llms-ai-activity-7343288021321953283-eH8e?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHZHBYBjnYvCZwEy53YFvw2iBjFgIdoGaE) | Learning more to better serve. | Published | 06/23/2025 |
+| [Sunriver Short-Term Rental Conversion ](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Done | Published | 07/30/2025
 | [Long-Term Socioeconomic Cycles: 500 years of Historical Parallels](https://github.com/coreyhe01/philosophical-explorations/wiki/Long%E2%80%90Term-Socioeconomic-Cycles:-500-Years-of-Historical-Parallels) | 1st in next series | 1st Draft | 08/09/2025 |
 | [Passive Mechatronics - Harnessing Nature's Heat for Autonomous Motion](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | 1st in another series | 1s Draft | 08/10/2025
-| **Anticholinergic Burden in America: How Everyday Medications Increase Cognitive Risk** | A data-driven analysis of medication-related cognitive decline and preventable impairment. | In Progress | 11/03/2025 |**
-| [Sunriver Short-Term Rental Conversion ](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Done | Published | 12/30/2025
+| **Anticholinergic Burden in America: How Everyday Medications Increase Cognitive Risk** | A data-driven analysis of medication-related cognitive decline and preventable impairment. | In Progress | 11/03/2025 |
+
 
 ---
 
