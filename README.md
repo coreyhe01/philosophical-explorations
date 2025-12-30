@@ -1,6 +1,6 @@
 # 📖 Philosophical Explorations
 
-This repository documents a body of work grounded in a simple standard: good ideas are only meaningful when well executed.
+A body of work grounded in a simple standard: good ideas are only meaningful when well executed.
 
 ## 🎯 Purpose
 
