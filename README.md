@@ -32,6 +32,7 @@ A body of work grounded in a simple standard: good ideas are only meaningful whe
 | Case Study | [Sunriver Short-Term Rental Conversion](https://github.com/coreyhe01/philosophical-explorations/wiki/Sunriver:-Capital-Reallocation,-Infrastructure-Modernization,-Revenue-Enablement) | Capital reallocation via 1031 exchange and conversion of a residential asset into a hospitality-grade short-term rental with quantified outcomes. | Published | 07/30/2025 |
 | Research | [Long-Term Socioeconomic Cycles: 500 Years of Historical Parallels](https://github.com/coreyhe01/philosophical-explorations/wiki/Long%E2%80%90Term-Socioeconomic-Cycles:-500-Years-of-Historical-Parallels) | First entry in a historical systems analysis series. | Draft | 08/09/2025 |
 | Research | [Passive Mechatronics: Harnessing Nature’s Heat for Autonomous Motion](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Exploration of low-energy passive mechanical systems emphasizing stewardship and resilience. | Draft | 08/10/2025 |
+| Case Study | [Residential Efficiency]() | Efficienfy gains with HVAC during extreme weather | Published | 08/24/2025 |
 | Research | [Dementia Risk in the United States: Accelerating Trends and Clinical Implications](https://github.com/coreyhe01/philosophical-explorations/wiki/Get-Some-Sleep) | The importance of good sleep, stop hurting your brain. | Published | 12/30/2025 |
 
 ---
