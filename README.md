@@ -34,6 +34,7 @@ A body of work grounded in a simple standard: good ideas are only meaningful whe
 | Research | [Passive Mechatronics: Harnessing Nature’s Heat for Autonomous Motion](https://github.com/coreyhe01/philosophical-explorations/wiki/Passive-Mechatronics-%E2%80%90-Harnessing-Nature's-Heat-for-Autonomous-Motion) | Exploration of low-energy passive mechanical systems emphasizing stewardship and resilience. | Draft | 08/10/2025 |
 | Case Study | [Residential Efficiency](https://github.com/coreyhe01/philosophical-explorations/wiki/Residential-Efficiency-Gain-%E2%80%90-HVAC) | Efficienfy gains with HVAC during extreme weather | Published | 08/21/2025 |
 | Research | [Dementia Risk in the United States: Accelerating Trends and Clinical Implications](https://github.com/coreyhe01/philosophical-explorations/wiki/Get-Some-Sleep) | The importance of good sleep, stop hurting your brain. | Published | 12/30/2025 |
+| Framework | [2025 AI Use and Learning - Top 3%](https://github.com/coreyhe01/philosophical-explorations/wiki/2025-AI-Use-and-Learning:-Top-3%25) | How I thihk and how I work with AI. | Published | 01/03/2026 |
 
 ---
 
