@@ -8,6 +8,12 @@ A body of work grounded in a simple standard: good ideas are only meaningful whe
 - Initiate open dialogue on coexistence, mutual growth, and the design of moral architectures.
 - Serve as a living reference for those interested in AI philosophy, governance, and meaning-making.
 
+## 📄 Professional Context
+While this space explores ethics, AI, and philosophy, my grounding in program leadership and systems delivery informs much of this work.
+**Type:** Professional Profile  
+**Title:** Senior Program Manager, Operations Leader and Scrum Master  
+📄 [View Resume (PDF)](./Corey_Heermann_Resume.pdf)
+
 ## 📋 Table of Philosophical Explorations
 
 > 🔎 Tip: For best viewing on mobile, rotate your phone to landscape or scroll horizontally on the table.
