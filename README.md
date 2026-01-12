@@ -12,7 +12,7 @@ A body of work grounded in a simple standard: good ideas are only meaningful whe
 While this space explores ethics, AI, and philosophy, my grounding in program leadership and systems delivery informs much of this work.
 **Type:** Professional Profile  
 **Title:** Senior Program Manager, Operations Leader and Scrum Master  
-📄 [View Resume (PDF)](./Corey_Heermann_Resume.pdf)
+📄 [View Resume (PDF)](https://github.com/coreyhe01/philosophical-explorations/blob/main/Corey_Heermann.pdf)
 
 ## 📋 Table of Philosophical Explorations
 
@@ -40,7 +40,7 @@ While this space explores ethics, AI, and philosophy, my grounding in program le
 | Case Study | [Residential Efficiency](https://github.com/coreyhe01/philosophical-explorations/wiki/Residential-Efficiency-Gain-%E2%80%90-HVAC) | Efficienfy gains with HVAC during extreme weather | Published | 08/21/2025 |
 | Research | [Dementia Risk in the United States: Accelerating Trends and Clinical Implications](https://github.com/coreyhe01/philosophical-explorations/wiki/Get-Some-Sleep) | The importance of good sleep, stop hurting your brain. | Published | 12/30/2025 |
 | Framework | [2025 AI Use and Learning - Top 3%](https://github.com/coreyhe01/philosophical-explorations/wiki/2025-AI-Use-and-Learning:-Top-3%25) | How I thihk and how I work with AI. | Published | 01/03/2026 |
-| Systems CV | [Senior Program Manager, Operations Leader, Scrum Master](https://github.com/coreyhe01/philosophical-explorations/blob/main/Corey_Heermann.pdf) | Systems CV. | Published | 01/012/2026 |
+| Systems CV | [Senior Program Manager, Operations Leader, Scrum Master](https://github.com/coreyhe01/philosophical-explorations/blob/main/Corey_Heermann.pd) | Systems CV. | Published | 01/012/2026 |
 
 ---
 
